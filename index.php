@@ -47,7 +47,6 @@
     </style>
 </head>
 <body>
-    <h1>hello</h1>
     <form action="processa_formulario.php" method="post">
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required>
