@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/vendedor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 use Monolog\Level;
 use Monolog\Logger;
